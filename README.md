@@ -5,7 +5,7 @@ This code was developed for the Machine Learning and Artificial Intelligence Cou
 
 ## What the code does
 Here is the brief list of what the code does:
-1. Download and load the provided subset of PACS dataset; setup your programming environ-ment accordingly your needings.
+1. Downloads and loads the provided subset of PACS dataset; setup the programming environment accordingly to the needings.
 2. Chooses one image and shows what happens to the image when it is re-project it with only first 60 PC, first 6 PC, first 2 PC, last 6 PC. 
 3. Using scatter-plot, visualizes the dataset projected on first 2 PC, with the 3&4 PC, and with 10&11. 
 4. Classifies the dataset (divided into training and test set) using a Naive Bayes Classifier in those cases: unmodified images, images projected into first 2PC, and on 3&4 PC. 
